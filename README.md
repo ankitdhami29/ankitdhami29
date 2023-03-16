@@ -8,7 +8,7 @@
 
 - 🌱 **I’m currently learning SQL and Power BI**
 
-- 📝I’m looking to collaborate on [Data Science projects(Specially related to ML Predictions)](Data Science projects(Specially related to ML Predictions))
+- 📝I’m looking to collaborate on (Data Science projects(Specially related to ML Predictions))
 
 - 📫 How to reach me **dhamiankit121@gmail.com**
 
