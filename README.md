@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitdhami29&label=Profile%20views&color=0e75b6&style=flat" alt="ankitdhami29" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning SQL and Power BI**
+- 🌱 **I’m currently learning SQL and Power BI**
 
 - 📝I’m looking to collaborate on [Data Science projects(Specially related to ML Predictions)](Data Science projects(Specially related to ML Predictions))
 
