@@ -1,6 +1,6 @@
 ![logo](https://png.pngtree.com/background/20210710/original/pngtree-taobao-vector-cartoon-technology-computer-storage-information-cloud-communication-poster-picture-image_1012768.jpg)
 <h1 align="center">Hi 👋, I'm Ankit Dhami</h1>
-<h3 align="center">I’m interested in Data Science/Data Analytics & GenAi</h3>
+<h3 align="center">I’m interested in Data Science/Data Analytics & GenAi </h3>
 
 <img align="right" alt="coding" width ="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
