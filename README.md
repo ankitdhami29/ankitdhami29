@@ -22,7 +22,7 @@
 #### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-![Node.Js](https://img.shields.io/badge/-Node.Js-F80000?logo=oracle&logoColor=white&style=flat-square)
+![Node.Js](https://img.shields.io/badge/Node.Js-logoColorrgba)
 
 #### 📊 Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
