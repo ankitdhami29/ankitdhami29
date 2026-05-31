@@ -31,6 +31,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-20639B?logo=plotly&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?style=flat-square)
+![Computer vision](https://img.shields.io/badge/computer%20vision-8A2BE2)
 
 #### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
