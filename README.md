@@ -36,7 +36,7 @@
 #### 🤖 Machine Learning
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-F7931E?logo=openai&logoColor=white&style=flat-square)
 ![ML Models](https://img.shields.io/badge/-Regression|Classification|Clustering-blueviolet?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=flat-square&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8B5BA6?style=flat-square&logo=opencv&logoColor=white)
 
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
