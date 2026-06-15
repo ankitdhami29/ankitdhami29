@@ -8,7 +8,7 @@
 
 - 🌱 **I’m currently learning & working with cloud platforms.**
 
-- 📝I’m looking to collaborate on (Data Science projects(Specially related to ML Predictions))
+- 📝I’m looking to collaborate on (Gen Ai /Agentic Ai projects(Specially related to ML Predictions))
 
 - 📫 How to reach me **dhamiankit121@gmail.com**
 
